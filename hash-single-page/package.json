@@ -1,0 +1,12 @@
+{
+  "name": "hash-single-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --port 3002"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
